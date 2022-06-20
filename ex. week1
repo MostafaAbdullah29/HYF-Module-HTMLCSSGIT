@@ -1,0 +1,23 @@
+_____________________________________________
+1)
+To creat a hiiden folder/file:-
+
+mkdir .folder => creat a new hidden folder.
+touch .file.txt => creat a new hidden.
+- - - - - - - - - - 
+
+To display the hidden file/folder:-
+ls -a => To display all hidden files and folders.
+
+_____________________________________________
+2)
+To create multiple nested directories:-
+
+mkdir -p ex1/ex2/ex3.txt
+
+______________________________________________
+3)
+How to append a message to a file without a newline character:-
+
+echo -e "this is a new line \nthis is another new line" >> file.txt
+_______________________________________________
