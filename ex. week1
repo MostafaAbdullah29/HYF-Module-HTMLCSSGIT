@@ -19,5 +19,7 @@ ______________________________________________
 3)
 How to append a message to a file without a newline character:-
 
-echo -e "this is a new line \nthis is another new line" >> file.txt
+echo "first line" > file.tex 
+echo "first line" >> file.tex 
+
 _______________________________________________
